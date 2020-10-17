@@ -28,7 +28,7 @@ Laporan Resmi Modul 1 Praktikum Jaringan Komputer
 
 ### No.3
 1. pada display filter masukan 
-``` http.request.method == POST && http.host == ppid.dpr.go.id “REVISED minus image” ``` lalu klik HTML Form URL Encode seperti ini
+``` http.request.method == POST && http.host == ppid.dpr.go.id``` lalu klik HTML Form URL Encode seperti ini
 
 ![1](https://user-images.githubusercontent.com/52096462/96326675-c8fd2100-105c-11eb-9660-17fb412f4d43.PNG)
 
